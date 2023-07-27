@@ -1,2 +1,2 @@
 # Nuxt3Vuetify3
-Nuxt3 with Vuetify 3
+Nuxt 3 with VueTify 3
